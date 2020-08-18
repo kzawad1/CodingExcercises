@@ -1,2 +1,2 @@
 # CodingExcercises
-Coding Practice
+Coding Practice Repository
